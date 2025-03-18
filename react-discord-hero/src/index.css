@@ -1,0 +1,62 @@
+body {
+  background-color: #5865F2;
+}
+
+.App{
+  font-family: sans-serif;
+}
+
+.NavBar{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.discord--logo{
+  height: 44px;
+  width:200px;
+}
+
+.menu--logo{
+  height: 44px;
+  width:44px;
+}
+
+.Content{
+  display: flex;
+  flex-direction: column;
+  align-items: baseline;
+  color: white;
+}
+
+.title{
+  font-family: 'Poppins', sans-serif;
+  font-size: 4rem;
+  line-height: 70px;
+  margin-bottom: 0;
+}
+
+.text{
+  display: block;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.5rem;
+}
+
+.ButtonOne{
+  border-radius: 50px;
+  border-style: none;
+  margin-bottom: 10px;
+  font-size: 1.5rem;
+  padding: 20px;
+}
+
+.ButtonTwo{
+  border-radius: 50px;
+  border-style: none;
+  margin-bottom: 10px;
+  font-size: 1.5rem;
+  padding: 20px;
+  color: white;
+  background-color: black;
+}
+
